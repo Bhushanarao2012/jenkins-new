@@ -1,1 +1,2 @@
-adding official file and example
+to install maven in jenkins
+create a jdk fileadding official file and example
