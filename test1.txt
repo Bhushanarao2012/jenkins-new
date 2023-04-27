@@ -1,0 +1,2 @@
+it s new project of git project
+intigrated with gitbash
