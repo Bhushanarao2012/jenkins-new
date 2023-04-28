@@ -1,2 +1,3 @@
  this is a telugu project 
  for 8th class batch
+ adding telugu note pad for students
